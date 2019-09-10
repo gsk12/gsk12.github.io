@@ -1,1 +1,1 @@
-Hi, I'm Sampath. I'm a graduate student at UT Dallas. Learning to build secure applications.
+Hi, I'm Sampath. I'm a graduate student in [computer science (CS)](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/) at UT Dallas. I'm learning to build secure applications. My research interests lie in the intersection of machine learning and cybersecurity. Currently, I'm working with [Prof. Wei Yang](http://youngwei.com/) in UTD's Intelligent Software and Security Lab.
