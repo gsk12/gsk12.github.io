@@ -8,4 +8,4 @@ Primary Email: firstname.lastname -at- utdallas.edu
 
 Secondary Email: firstname.lastname -at- gmail.com
 
-[Email](sampath.grandhi@gmail.com)| [LinkedIn](https://www.linkedin.com/in/sampathgrandhi/) | [Twitter](http://twitter.com/12gsk/) | [Instagram](https://www.instagram.com/12gsk/)
+[Email](sampath.grandhi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sampathgrandhi/) | [Twitter](http://twitter.com/12gsk/) | [Instagram](https://www.instagram.com/12gsk/)
