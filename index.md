@@ -4,8 +4,8 @@ Hi, I'm Sampath. I'm a graduate student in [computer science (CS)](https://cs.ut
 
 ### Contact me
 
-- Primary Email: username -at- domain.edu (where username = sampath.grandhi, domain = utdallas.edu)
-- Secondary Email: username -at- domain.com (where username = sampath.grandhi, domain = gmail)
-- [LinkedIn](https://www.linkedin.com/in/sampathgrandhi/)
-- [Twitter](http://twitter.com/12gsk/)
-- [Instagram](https://www.instagram.com/12gsk/)
+Primary Email: username -at- domain.edu (where username = sampath.grandhi, domain = utdallas.edu)
+
+Secondary Email: username -at- domain.com (where username = sampath.grandhi, domain = gmail)
+
+[LinkedIn](https://www.linkedin.com/in/sampathgrandhi/) | [Twitter](http://twitter.com/12gsk/) | [Instagram](https://www.instagram.com/12gsk/)
